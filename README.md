@@ -9,7 +9,7 @@ $2001 Chars per Line (std $20)<br>
 $2005 Lines per screen (std $10)  <br> 
 $2009 skip frames (std. $0)         <br>
                                   
-Enter your variables at the start: <br>
+Enter your living cells at the start: <br>
 ENTER V,H ?                        <br>
 These coordinates are displacements <br>
 from an origin at the center of the <br>
