@@ -14,7 +14,5 @@ ENTER V,H ?                        <br>
 These coordinates are displacements <br>
 from an origin at the center of the <br>
 screen. A coordinate may be any     <br>
-decimal                            <br>
-digit less than 8 followed by a '-' <br>
-or a <space>. After all is set,     <br>
-
+decimal digit less than 8 followed by a '-' <br>
+or a 'space'. After all is set,     <br>
