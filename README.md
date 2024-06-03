@@ -16,3 +16,5 @@ from an origin at the center of the <br>
 screen. A coordinate may be any     <br>
 decimal digit less than 8 followed by a '-' <br>
 or a 'space'. After all is set,     <br>
+'/' starts the simulation
+
